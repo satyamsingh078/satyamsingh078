@@ -1,3 +1,4 @@
+<div align="center">
 <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Satyam+Singh!;" />
 </h1>
@@ -40,7 +41,7 @@
 
 ## My Recent Projects  
 <div align= "centre">
-  
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=springboardmentor106&repo=DailyDose-Team-02&show_icons=true&theme=great-gatsby" alt="DailyDose">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshitpandey08&repo=Zerodha-clone&show_icons=true&theme=great-gatsby" alt="TradeMate">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyamkr31&repo=Car-Rental&show_icons=true&theme=great-gatsby" alt="Car Rental System">
 </div>

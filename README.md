@@ -40,9 +40,9 @@
 
 ## My Recent Projects  
 <div align= "centre">
-  <img src="https://github.com/springboardmentor106/DailyDose-Team-02.git" alt="DailyDose">
+  
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshitpandey08&repo=Zerodha-clone&show_icons=true&theme=great-gatsby" alt="TradeMate">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshitpandey08&repo=Company-s-Budget-Allocation&show_icons=true&theme=great-gatsby" alt="Car Rental System"> -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyamkr31&repo=Car-Rental&show_icons=true&theme=great-gatsby" alt="Car Rental System">
 </div>
 
 <h3>DON'T FORGET TO ⭐ THIS REPOSITORY !!!</h3>
